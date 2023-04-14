@@ -11,6 +11,7 @@ entidades de negócio (muitos-para-um, muitos-para-muitos, etc.).
 disciplinas de fundamentos.
 - O sistema contem as principais funcionalidades que se espera de um
 profissional iniciante deve saber construir.
+- E com intuito de dar os primeiros passos sobre micro serviços e aprender na pratica os fundamentos.
 
 
 ## 
